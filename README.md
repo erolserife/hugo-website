@@ -111,6 +111,8 @@ This repository is licensed under the [MIT License](LICENSE.md).
 - [Eran Shmuëli's website](https://eranshmueli.com)
 - [Bo Wang's website](https://bowang.finance)
 - [Muhammed Bulutay's website](https://muhammedbulutay.com)
+- [Nikhil George's website](https://ngeorge.net)
+- [Matthew O'Keefe's website](https://mfokeefe.github.io)
 
 ## Related resources
 
