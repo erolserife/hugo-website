@@ -100,10 +100,11 @@ This repository is licensed under the [MIT License](LICENSE.md).
 - [Taeyoung Kim's website](https://tykim.me) ([source code](https://github.com/SangsChicom/tykim.github.io))
 - [Niladri Kal's website](https://niladrik.github.io) ([source code](https://github.com/niladrik/niladrik.github.io))
 - [Somjit Roy's website](https://roy-sr-007.github.io) ([source code](https://github.com/Roy-SR-007/roy-sr-007.github.io))
+- [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
+- [Beau Bressler's website](https://beaubressler.github.io)
 - [Momchil Tomov's website](https://momchiltomov.com)
 - [Arthur Douillard's website](https://arthurdouillard.com)
 - [Benjamin Hattemer's website](https://benjaminhattemer.com)
-- [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
 - [Qiwei He's website](https://www.qiwei-he.com)
 - [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
 - [Marek Wiewiórka's website](https://marekwiewiorka.org)
@@ -116,4 +117,4 @@ This repository is licensed under the [MIT License](LICENSE.md).
 - [latex-cv](https://github.com/pmichaillat/latex-cv) - This LaTeX template produces a minimalist academic CV, which you can post on your website.
 - [latex-presentation](https://github.com/pmichaillat/latex-presentation) - This LaTeX template produces minimalist research presentations, which you can post on your website.
 - [latex-paper](https://github.com/pmichaillat/latex-paper) - This LaTeX template produces minimalist research papers, which you can post on your website.
-- [latex-book](https://github.com/pmichaillat/latex-book) - This LaTeX template produces minimalist lecture notes and research monographs, which you can post on your website.
+- [latex-book](https://github.com/pmichaillat/latex-book) - This LaTeX template produces minimalist lecture notes and research monographs, which you can post on your website too.
