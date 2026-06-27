@@ -65,6 +65,10 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:s.erol@uni-jena.de
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/dr-%C5%9Ferife-erol-39b83854/
+        - name: Google Scholar
+          url: https://scholar.google.de/citations?user=bd-fpo0AAAAJ
     assets:
         disableScrollBarStyle: true
     cover:
