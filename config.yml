@@ -62,7 +62,7 @@ params:
               url: tags/
     socialIcons:
         - name: CV
-          url: CV_Serife_Erol_moderncv_full.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:s.erol@uni-jena.de
     assets:
