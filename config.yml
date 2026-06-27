@@ -1,37 +1,29 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://serifeerol.com/"
+title: Şerife Erol
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
   pagerSize: 20
-
 taxonomies:
     tag: tags
-
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
           weight: 2
+        - name: Book
+          url: books/
+          weight: 3
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
+          weight: 4
+        - name: News
+          url: news/
+          weight: 5
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
+    description: "This website hosts Şerife Erol's research papers, book, course materials, curriculum vitae, and contact information."
+    author: Şerife Erol
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -44,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","courses","papers","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,68 +46,41 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Dr. Şerife Erol
+          subtitle: "I am a postdoctoral researcher at the [Friedrich Schiller University Jena](https://www.uni-jena.de), Germany, in the Department of Labor and Industrial Sociology. My research focuses on labor relations, vocational training, and institutional transformation, with extensive experience in quantitative and qualitative social research. I was previously a researcher at the [Institute of Economic and Social Research (WSI)](https://www.wsi.de), Hans Böckler Foundation. <br /> <br /> My [Curriculum Vitae](cv.pdf) has more detail, if you need it. Most of my [papers](papers) and my [book](books) are available on this site as well as information on my [courses](/courses)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
+            - name: Book
               url: books/
             - name: Courses
               url: courses/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
-        - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
-
+          url: mailto:s.erol@uni-jena.de
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Şerife Erol"
       icon: favicon.ico
       iconHeight: 18
-
 markup:
     goldmark:
         renderer:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
