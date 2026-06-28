@@ -15,8 +15,6 @@ editPost:
     URL: "https://www.uni-jena.de"
     Text: "Friedrich Schiller University Jena"
 ---
-    *Photo by [Jon Tyson](https://unsplash.com/photos/brown-wooden-human-face-carved-decor-qn6mBa0twDY)*
-
 ---
 
 #### Seminar Description
