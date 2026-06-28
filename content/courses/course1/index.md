@@ -7,7 +7,6 @@ description: "MA Seminar on precarity, migration, and union organizing strategie
 summary: "This seminar explores the challenges facing German trade unions, including precarious employment, fragmented workforces, and union-busting. It examines organizing concepts used by unions such as IG Metall and Ver.di, with a particular focus on the organizing of migrant workers."
 cover:
     image: "course1.png"
-    *Photo by [Jon Tyson](https://unsplash.com/photos/brown-wooden-human-face-carved-decor-qn6mBa0twDY)*
     alt: "Prekarität. Migration. Organizing"
     relative: true
     caption: ""
@@ -16,6 +15,7 @@ editPost:
     URL: "https://www.uni-jena.de"
     Text: "Friedrich Schiller University Jena"
 ---
+    *Photo by [Jon Tyson](https://unsplash.com/photos/brown-wooden-human-face-carved-decor-qn6mBa0twDY)*
 
 ---
 
