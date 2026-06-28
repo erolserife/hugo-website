@@ -1,6 +1,3 @@
-Hier ist die fertige `index.md` für deinen `course1` Ordner:
-
-```markdown
 ---
 title: "Prekarität. Migration. Organizing: Gewerkschaftliche Handlungsstrategien"
 date: 2026-04-08
@@ -58,6 +55,3 @@ Die deutschen Gewerkschaften stehen vor erheblichen Herausforderungen: Prekäre 
 - Schmalz, S. / Dörre, K. (Hrsg.) (2013): Comeback der Gewerkschaften? Frankfurt a.M.: Campus.
 - Vandaele, K. / Fabris B. L. (2025): When trade unions learn to innovate. Brüssel: ETUI.
 - Wetzel, D. (Hrsg.) (2013): Organizing. Hamburg: VSA Verlag.
-```
-
-Ersetze den Inhalt der `index.md` im Ordner `course1` damit und committe!
