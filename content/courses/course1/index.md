@@ -9,6 +9,7 @@ cover:
     image: "course1.png"
     alt: "Prekarität. Migration. Organizing"
     relative: true
+    imageUrl: "[https://unsplash.com/...](https://unsplash.com/photos/brown-wooden-human-face-carved-decor-qn6mBa0twDY)"
     caption: ""
     responsiveImages: false
 editPost:
