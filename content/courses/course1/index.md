@@ -9,6 +9,8 @@ cover:
     image: "course1.png"
     alt: "Prekarität. Migration. Organizing"
     relative: true
+    caption: ""
+    responsiveImages: false
 editPost:
     URL: "https://www.uni-jena.de"
     Text: "Friedrich Schiller University Jena"
