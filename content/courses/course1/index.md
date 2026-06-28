@@ -21,7 +21,7 @@ editPost:
 Die deutschen Gewerkschaften stehen vor erheblichen Herausforderungen: Prekäre Beschäftigung, zunehmend fragmentierte Belegschaften (u.a. nach Nationalität bzw. Aufenthaltsstatus) sowie eine aktive Bekämpfung von Betriebsratsgründungen erschweren ihre Arbeit. Vor diesem Hintergrund nutzen Gewerkschaften wie die IG Metall oder Ver.di seit rund zwei Jahrzehnten verstärkt Organizing-Konzepte, um Aktivenkerne aufzubauen, Betriebsräte zu gründen sowie auch unter widrigen Bedingungen Tarifverträge zu erkämpfen. Ein besonderer Schwerpunkt liegt auf der Organisierung von migrantischen Beschäftigten.
 
 **Format:** Block seminar, 14.–17. September 2026  
-**Location:** CZS 3, SR 223, Friedrich Schiller University Jena  
+**Location:** Friedrich Schiller University Jena  
 **Level:** Master's  
 **Instructors:** Dr. Şerife Erol & Prof. Dr. Stefan Schmalz
 
