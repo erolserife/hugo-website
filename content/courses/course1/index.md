@@ -1,120 +1,63 @@
+Hier ist die fertige `index.md` für deinen `course1` Ordner:
+
+```markdown
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+title: "Prekarität. Migration. Organizing: Gewerkschaftliche Handlungsstrategien"
+date: 2026-04-08
+tags: ["precarity","migration","organizing","industrial relations","trade unions"]
+author: ["Şerife Erol", "Stefan Schmalz"]
+description: "MA Seminar on precarity, migration, and union organizing strategies. Friedrich Schiller University Jena, Summer Semester 2026."
+summary: "This seminar explores the challenges facing German trade unions, including precarious employment, fragmented workforces, and union-busting. It examines organizing concepts used by unions such as IG Metall and Ver.di, with a particular focus on the organizing of migrant workers."
 cover:
     image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    alt: "Prekarität. Migration. Organizing"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
-showToc: true
-disableAnchoredHeadings: false
+    URL: "https://www.uni-jena.de"
+    Text: "Friedrich Schiller University Jena"
+---
 
 ---
 
-## Introduction
+#### Seminar Description
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+Die deutschen Gewerkschaften stehen vor erheblichen Herausforderungen: Prekäre Beschäftigung, zunehmend fragmentierte Belegschaften (u.a. nach Nationalität bzw. Aufenthaltsstatus) sowie eine aktive Bekämpfung von Betriebsratsgründungen erschweren ihre Arbeit. Vor diesem Hintergrund nutzen Gewerkschaften wie die IG Metall oder Ver.di seit rund zwei Jahrzehnten verstärkt Organizing-Konzepte, um Aktivenkerne aufzubauen, Betriebsräte zu gründen sowie auch unter widrigen Bedingungen Tarifverträge zu erkämpfen. Ein besonderer Schwerpunkt liegt auf der Organisierung von migrantischen Beschäftigten.
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Format:** Block seminar, 14.–17. September 2026  
+**Location:** CZS 3, SR 223, Friedrich Schiller University Jena  
+**Level:** Master's  
+**Instructors:** Dr. Şerife Erol & Prof. Dr. Stefan Schmalz
 
-## Part 1: Review of Romance languages
+---
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Schedule
 
-##### Lecture videos
+| Date | Topic |
+|------|-------|
+| 8. April | Introduction and organization |
+| 14. September | Prekarität: Subjektive Verarbeitung |
+| 14. September | Prekariat: Eine neue Klasse? |
+| 14. September | Multiple Prekarität: Repräsentationslücken |
+| 15. September | Guest lecture: Migrant Labor in China |
+| 15. September | Machtressourcen: Lohnabhängigenmacht vs. Arbeitgebermacht |
+| 15. September | Organizing-Ansätze in Deutschland |
+| 16. September | Guest input: Tesla-Organizing-Kampagne |
+| 16. September | Deep-Organizing und Machtaufbau |
+| 16. September | Guest input: Organizing im Gesundheitssektor |
+| 17. September | Tarifpolitik: Revitalisierung industrieller Beziehungen? |
+| 17. September | Jenseits von Organizing: Gesetzliche Rahmenbedingungen |
+| 17. September | Abschlusssitzung |
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
+---
 
-##### Lecture notes
+#### Core Literature
 
-+ [Lecture note 1](lecture1.pdf)
+- Castel, R. / Dörre, K. (2009): Prekarität, Abstieg, Ausgrenzung. Frankfurt a.M.: Campus.
+- Laroche M. / Murray G. (Hrsg.) (2024): Experimenting for union renewal. Brüssel: ETUI.
+- McAlevey, J. (2019): Keine halben Sachen. Machtaufbau durch Organizing. Hamburg.
+- Schmalz, S. / Dörre, K. (Hrsg.) (2013): Comeback der Gewerkschaften? Frankfurt a.M.: Campus.
+- Vandaele, K. / Fabris B. L. (2025): When trade unions learn to innovate. Brüssel: ETUI.
+- Wetzel, D. (Hrsg.) (2013): Organizing. Hamburg: VSA Verlag.
+```
 
-##### Readings
-
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read. (Further results are in the [online appendix](https://pascalmichaillat.org/1a.pdf).)
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
-
-## Part 2: Portugese irregular verbs
-
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture videos
-
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8) - Short overview of the Portugese language.
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8) - History of irregular verbs.
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0) - Main Portugese irregular verbs.
-
-##### Lecture notes
-
-+ [Lecture note 2](lecture2.pdf)
-
-##### Readings
-
-+ [Paper 4](https://pascalmichaillat.org/3.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/3a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/5.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/5a.pdf) contains long proofs and extensions of the results.)
-
-
-## Part 3: Spanish irregular verbs
-
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-##### Lecture videos
-
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
-
-##### Basic readings
-
-+ [Paper 6](https://pascalmichaillat.org/10.pdf) ([online appendix](https://pascalmichaillat.org/10a.pdf))
-+ [Paper 7](https://pascalmichaillat.org/11.pdf) ([online appendix](https://pascalmichaillat.org/11a.pdf))
-
-##### Advanced readings
-
-+ [Paper 8](https://pascalmichaillat.org/12.pdf)
-+ [Paper 9](https://pascalmichaillat.org/13.pdf)
-
-## Conclusion
-
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
-
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Ersetze den Inhalt der `index.md` im Ordner `course1` damit und committe!
