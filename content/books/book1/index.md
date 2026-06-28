@@ -22,7 +22,9 @@ Wie beeinflussen Arbeitsorientierungen das Weiterbildungsverhalten von Beschäft
 
 https://creativecommons.org/licenses/by-nc/4.0
 
-Leseprobe: https://www.bic-media.com/widget/?isbn=9783593520537&buyUrl=https://beltz.de/9783593520537
+#### Leseprobe: 
+
+https://www.bic-media.com/widget/?isbn=9783593520537&buyUrl=https://beltz.de/9783593520537
 ---
 
 #### Citation
