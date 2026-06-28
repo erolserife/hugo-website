@@ -5,11 +5,11 @@ description: "Research papers and publications by Şerife Erol."
 
 ## Peer-Reviewed Articles
 
-Erol, S. & Schulten, T. (in preparation): Neuordnung der Arbeitsbeziehungen vor und nach dem Arbeitsschutzkontrollgesetz in der deutschen Fleischindustrie. *WSI-Mitteilungen*.
-
 Erol, S. (in preparation): Empowering workplace learning: An empirical analysis of Works Councils' role in continuing education.
 
-Erol, S. & Thünken, O. (forthcoming): Wilde Streiks damals und heute: Migrantische Arbeitskämpfe und Machtressourcen in der Fleischindustrie. Under review at: *German Journal of Industrial Relations*.
+Erol, S. & Schulten, T. (i. E.): Neuordnung der Arbeitsbeziehungen vor und nach dem Arbeitsschutzkontrollgesetz in der deutschen Fleischindustrie. *WSI-Mitteilungen*.
+
+Erol, S. & Thünken, O. (i.E.): Wilde Streiks damals und heute: Migrantische Arbeitskämpfe und Machtressourcen in der Fleischindustrie. Under review at: *German Journal of Industrial Relations*.
 
 Hünefeld, L., Meyer, S. C., Erol, S. & Ahlers, E. (2025): Work intensity: identification and analysis of key determinants. *International Journal of Workplace Health Management*, 18(2): 238–258.
 
@@ -21,11 +21,11 @@ Hünefeld, L., Meyer, S., Ahlers, E. & Erol, S. (2020): Arbeitsintensität als G
 
 ## Book Chapters
 
-Erol, S. (in preparation): Migration, Machtressourcen und Gewerkschaften im Wandel der Arbeitsbeziehungen. In: K. Dörre, T. Schulten & F. Zeise (Eds.), *Renaissance der Arbeiter:innen-Macht*, Campus Verlag.
+Erol, S. (i. E.): Migration, Machtressourcen und Gewerkschaften im Wandel der Arbeitsbeziehungen. In: K. Dörre, T. Schulten & F. Zeise (Eds.), *Renaissance der Arbeiter:innen-Macht*, Campus Verlag.
 
-Bosch, G., Erol, S., Kallina, T. & Lübker, M. (in preparation): Mehr Lohn durch Tarifvertrag? Evidenz aus Querschnittsanalysen mit IAB-BP, SOEP, Verdiensterhebungen. In: G. Bosch, T. Schulten & F. Hüttenhof (Eds.), *Stärkung der Tarifbindung in Deutschland*, Campus Verlag.
+Bosch, G., Erol, S., Kallina, T. & Lübker, M. (i. E.): Mehr Lohn durch Tarifvertrag? Evidenz aus Querschnittsanalysen mit IAB-BP, SOEP, Verdiensterhebungen. In: G. Bosch, T. Schulten & F. Hüttenhof (Eds.), *Stärkung der Tarifbindung in Deutschland*, Campus Verlag.
 
-Erol, S. (in preparation): Die Entwicklung der Tarifbindung in Deutschland. In: G. Bosch, T. Schulten & F. Hüttenhof (Eds.), *Stärkung der Tarifbindung in Deutschland*, Campus Verlag.
+Erol, S. (i. E.): Die Entwicklung der Tarifbindung in Deutschland. In: G. Bosch, T. Schulten & F. Hüttenhof (Eds.), *Stärkung der Tarifbindung in Deutschland*, Campus Verlag.
 
 Erol, S. (2024): Mitbestimmung wirkt – Der positive Einfluss von Betriebsräten auf betriebliche Weiterbildung. In: R. Chmelik, K. Dörre, J. Hünniger, T. Rehfeldt & S. Seitz (Eds.), *Die Zukunft des Automobils*, Campus Verlag.
 
