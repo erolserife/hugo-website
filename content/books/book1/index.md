@@ -18,8 +18,11 @@ editPost:
 
 #### Description
 
-This book investigates how work orientations influence employees' behavior regarding continuing vocational training. Based on extensive empirical research, it argues that understanding what work means to individuals is key to explaining participation in lifelong learning. Published in the series *Arbeit-Interessen-Partizipation*, edited by L. Pries and R. Trincek, Campus Verlag, 2025.
+Wie beeinflussen Arbeitsorientierungen das Weiterbildungsverhalten von Beschäftigten? Şerife Erol zeigt, dass neben objektiven Faktoren wie soziodemografischen, arbeitsbezogenen und betriebsbezogenen Merkmalen auch subjektive Reaktionen eine signifikante Rolle spielen. Besonders hervorzuheben ist, dass eine starke organisations- oder berufsbezogene Arbeitsorientierung die Wahrscheinlichkeit erhöht, an Weiterbildungen teilzunehmen. Im Gegensatz dazu kann eine ausgeprägte marktbezogene Arbeitsorientierung diese Wahrscheinlichkeit verringern. Die Ergebnisse der Untersuchung verdeutlichen, wie Arbeitsbedingungen gestaltet sein sollten, um Mitarbeitende zur Weiterbildung zu motivieren.
 
+https://creativecommons.org/licenses/by-nc/4.0
+
+Leseprobe: https://www.bic-media.com/widget/?isbn=9783593520537&buyUrl=https://beltz.de/9783593520537
 ---
 
 #### Citation
