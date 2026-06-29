@@ -30,7 +30,7 @@ Erol, Ş. (i. E.): Die Entwicklung der Tarifbindung in Deutschland. In: G. Bosch
 
 Erol, Ş. (2024): Mitbestimmung wirkt – Der positive Einfluss von Betriebsräten auf betriebliche Weiterbildung. In: R. Chmelik, K. Dörre, J. Hünniger, T. Rehfeldt & S. Seitz (Eds.), [*Die Zukunft des Automobils*](https://campus.de/die-zukunft-des-automobils/CAM46070), Campus Verlag.
 
-Pries, L. & Erol, Ş. (2017): Social Change and Economic Development through Transnational Companies in Turkey. In: M. H. Bilgin & H. Danis (Eds.), *Eurasian Studies in Business and Economics*. Springer.
+Pries, L. & Erol, Ş. (2017): Social Change and Economic Development through Transnational Companies in Turkey. In: M. H. Bilgin & H. Danis (Eds.), [*Eurasian Studies in Business and Economics*.](https://link.springer.com/chapter/10.1007/978-3-319-54112-9_2), Springer.
 
 ---
 
