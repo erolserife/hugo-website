@@ -46,11 +46,11 @@ Erol, Ş., Ahlers, A. & Schleicher, S. (2021): [Betriebliche Weiterbildung als H
 
 Erol, Ş. & Schulten, T. (2021): [Renewing labour relations in the German meat industry. An end to organized irresponsibility?](https://www.boeckler.de/fpdf/HBS-007928/p_wsi_report_61e_2021.pdf) WSI Report 61e.
 
-Erol, Ş. & Schulten, T. (2020): [Das Ende der organisierten Verantwortungslosigkeit? Neuordnung der Arbeitsbeziehungen in der Fleischindustrie.](https://www.wsi.de/de/neuordnung-der-arbeitsbeziehungen-in-der-fleischindustrie-43035.htm) WSI Report Nr. 61.
+Erol, Ş. & Schulten, T. (2020): [Das Ende der organisierten Verantwortungslosigkeit? Neuordnung der Arbeitsbeziehungen in der Fleischindustrie.](https://www.boeckler.de/en/faust-detail.htm?sync_id=9154) WSI Report Nr. 61.
 
-Ahlers, E., Erol, Ş. & Schleicher, S. (2020): Fachkräftemangel oder schlechte Personalplanung? Stellenbesetzungsprobleme in den Betrieben aus Sicht der Betriebsräte. WSI Policy Brief Nr. 41.
+Ahlers, E., Erol, Ş. & Schleicher, S. (2020): [Fachkräftemangel oder schlechte Personalplanung? Stellenbesetzungsprobleme in den Betrieben aus Sicht der Betriebsräte.](https://www.wsi.de/de/faust-detail.htm?sync_id=HBS-007686) WSI Policy Brief Nr. 41.
 
-Ahlers, E. & Erol, Ş. (2019): Arbeitsverdichtung in den Betrieben? Empirische Befunde aus der WSI-Betriebsrätebefragung. WSI Policy Brief Nr. 33.
+Ahlers, E. & Erol, Ş. (2019): [Arbeitsverdichtung in den Betrieben? Empirische Befunde aus der WSI-Betriebsrätebefragung.](https://www.wsi.de/de/faust-detail.htm?sync_id=HBS-007175) WSI Policy Brief Nr. 33.
 
 ---
 
