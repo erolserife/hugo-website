@@ -47,7 +47,14 @@ params:
     profileMode:
           enabled: true
           title: Dr. Şerife Erol
-          subtitle: "I am a postdoctoral researcher at the [Friedrich Schiller University Jena](https://www.uni-jena.de), Germany, in the Department of Labor and Industrial Sociology. My research focuses on labor relations, vocational training, and institutional transformation, with extensive experience in quantitative and qualitative social research. I was previously a researcher at the [Institute of Economic and Social Research (WSI)](https://www.wsi.de), Hans Böckler Foundation. <br /> <br /> My [Curriculum Vitae](CV_Serife_Erol_moderncv_full.pdf) has more detail, if you need it. Most of my [papers](papers) and my [book](books) are available on this site as well as information on my [courses](/courses)."
+          subtitle: "I am a postdoctoral researcher at the [Friedrich Schiller University Jena](https://www.uni-jena.de), Germany,
+          in the Department of Labor and Industrial Sociology. 
+          My research focuses on labor relations, vocational training, and institutional transformation, 
+          with extensive experience in quantitative and qualitative social research. My work focuses on translating
+   academic research into practical insights that inform labor market policies 
+   and strengthen industrial relations and improve the working lives of those who need it most.
+   I was previously a researcher at the [Institute of Economic and Social Research (WSI)](https://www.wsi.de), 
+   Hans Böckler Foundation. <br /> <br /> My [Curriculum Vitae](CV_Serife_Erol_moderncv_full.pdf) has more detail, if you need it. Most of my [papers](papers) and my [book](books) are available on this site as well as information on my [courses](/courses)."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
