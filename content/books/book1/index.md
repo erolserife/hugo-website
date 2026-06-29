@@ -22,14 +22,11 @@ Wie beeinflussen Arbeitsorientierungen das Weiterbildungsverhalten von Beschäft
 
 https://creativecommons.org/licenses/by-nc/4.0
 
-#### Leseprobe: 
-
-https://www.bic-media.com/widget/?isbn=9783593520537&buyUrl=https://beltz.de/9783593520537
 ---
 
 #### Citation
 
-Erol, Şerife. 2025. *Lebenslanges Lernen verstehen. Arbeitsorientierungen als Schlüssel zur beruflichen Weiterbildung*. Frankfurt: Campus Verlag.
+Erol, Şerife. 2025. [*Lebenslanges Lernen verstehen. Arbeitsorientierungen als Schlüssel zur beruflichen Weiterbildung*](https://campus.de/lebenslanges-lernen-verstehen/CAM46119). Frankfurt: Campus Verlag.
 
 ```latex
 @book{E25,
